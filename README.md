@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi, I'm Jorge
+
+### Welcome to my GitHub profile 👋
+
+```js
+const jorgemayoral = {
+  code: [Javascript, HTML, CSS],
+  tools: [MongoDB, Express, React, Node],
+}
+```
 
 <!--
 **JorgeMayoral/JorgeMayoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
