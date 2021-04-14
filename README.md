@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 <h3 align="center">A web developer from Spain.</h3>
 
-- 👨‍💻 All of my projects are available at [https://jorgemayoral.com](https://jorgemayoral.com)
+- 👨‍💻 All of my projects are available at [https://yorch.dev/](https://yorch.dev/)
 
 - 📫 How to reach me **mayoralalvarezj@gmail.com**
 
