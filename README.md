@@ -5,11 +5,12 @@ I am a Spanish developer
 </p>
 
 <p>
-On a professional level, I do front-end development with Typescript, React, and NodeJs among other technologies.
+On a professional level, I develop with Typescript, React, and NodeJs
+among other technologies.
 </p>
 
 <p>
-As a hobby I like using Rust and building CLI tools and backend services.
+As a hobby I like using Rust to build CLI tools and backend services.
 </p>
 
 <hr/>
