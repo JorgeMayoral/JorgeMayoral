@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Jorge</h1>
 
 <p>
-I am a Spanish developer
+Self-taught developer with a passion for learning new technologies.
 </p>
-
 <p>
-On a professional level, I develop with Typescript, React, and NodeJs
-among other technologies.
-</p>
-
-<p>
-As a hobby I like using Rust to build CLI tools and backend services.
+With experience in both frontend and backend development.
+Currently working as a full-stack developer at Sngular, using TypeScript, React, Node.js, and more.
+Developing my own projects with Rust and any technology I find interesting.
 </p>
 
 <hr/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMayoral&layout=donut)
+![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeMayoral&show_icons=true&hide=contribs&rank_icon=github)
+
 <h3>You can get in touch with me through the following links:</h3>
 
+- 🌐 Web: <a href="https://yorch.dev">yorch.dev</a>
 - 📫 Email: <a href="mailto:contact@yorch.dev">contact@yorch.dev</a>
 - 🐦 Twitter: <a href="https://twitter.com/Dev_Yorch">@Dev_Yorch</a>
 - 👔 LinkedIn: <a href="https://www.linkedin.com/in/jorgemayoralalvarez/">LinkedIn</a>
