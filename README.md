@@ -17,8 +17,9 @@ Developing my own projects with Rust and any technology I find interesting.
 <h3>You can get in touch with me through the following links:</h3>
 
 - 🌐 Web: <a href="https://yorch.dev">yorch.dev</a>
+- 🐘 Mastodon: <a href="https://mastodon.social/@devyorch">@devyorch</a>
+- 📇 Matrix: <a href="https://matrix.to/#/@jorge.ma:matrix.org">@jorge.ma:matrix.org</a>
 - 📫 Email: <a href="mailto:contact@yorch.dev">contact@yorch.dev</a>
-- 🐦 Twitter: <a href="https://twitter.com/Dev_Yorch">@Dev_Yorch</a>
 - 👔 LinkedIn: <a href="https://www.linkedin.com/in/jorgemayoralalvarez/">LinkedIn</a>
 
 <!--
