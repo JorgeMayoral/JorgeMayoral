@@ -11,28 +11,9 @@ Developing my own projects with Rust and any technology I find interesting.
 
 <hr/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeMayoral&layout=donut)
-![Jorge's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeMayoral&show_icons=true&hide=contribs&rank_icon=github)
-
 <h3>You can get in touch with me through the following links:</h3>
 
 - 🌐 Web: <a href="https://yorch.dev">yorch.dev</a>
 - 🐘 Mastodon: <a href="https://mastodon.social/@devyorch">@devyorch</a>
-- 📇 Matrix: <a href="https://matrix.to/#/@jorge.ma:matrix.org">@jorge.ma:matrix.org</a>
 - 📫 Email: <a href="mailto:contact@yorch.dev">contact@yorch.dev</a>
 - 👔 LinkedIn: <a href="https://www.linkedin.com/in/jorgemayoralalvarez/">LinkedIn</a>
-
-<!--
-**JorgeMayoral/JorgeMayoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
